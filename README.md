@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naqeebullah19&label=Profile%20views&color=0e75b6&style=flat" alt="naqeebullah19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naqeebullah19" alt="naqeebullah19" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=naqeebullah19&theme=dracula&no-bg=true&no-frame=true&margin-w=10" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
