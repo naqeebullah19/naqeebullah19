@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naqeebullah Khan</h1>
-<h3 align="center">A passionate frontend and Ai/ML</h3>
+<h3 align="center">Ai/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naqeebullah19&label=Profile%20views&color=0e75b6&style=flat" alt="naqeebullah19" /> </p>
 
