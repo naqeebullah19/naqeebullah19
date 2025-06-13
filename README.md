@@ -20,7 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naqeebullah19&show_icons=true&locale=en" alt="naqeebullah19" /></p>
 
-<h3>🔥 GitHub Streak</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naqeebullah19" alt="naqeebullah19" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naqeebullah19&" alt="naqeebullah19" /></p>
